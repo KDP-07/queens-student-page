@@ -6,8 +6,8 @@ labels: peer-review
 assignees: ''
 ---
 
-**Live URL:** https://<user>.github.io/queens-student-page/
-**Repo:** https://github.com/<user>/queens-student-page
+**Live URL:** https://kdp-07.github.io/queens-student-page/
+**Repo:** https://kdp-07.github.io/queens-student-page/
 
 ### 1) Functionality
 - [ ] Page loads; links & images work.
